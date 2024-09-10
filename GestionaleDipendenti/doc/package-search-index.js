@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"it.corso"},{"l":"it.corso.controller"},{"l":"it.corso.dao"},{"l":"it.corso.dto"},{"l":"it.corso.model"},{"l":"it.corso.service"}];updateSearchResults();
